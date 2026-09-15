@@ -11,7 +11,7 @@ import {
   CategoryItem,
   SiteSettings,
   DEFAULT_SITE_SETTINGS
-} from './types';
+} 
 import { CURRENCIES, normalizeOrder } from './utils/formatters';
 import { INITIAL_PRODUCTS } from './data/products';
 import { INITIAL_POSTS } from './data/posts';
